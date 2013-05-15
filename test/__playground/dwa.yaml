@@ -1,0 +1,7 @@
+set:
+  # Explicitly typed set.
+  baseball players: !!set
+    ? Mark McGwire
+    ? Sammy Sosa
+    ? Ken Griffey
+  # Flow style

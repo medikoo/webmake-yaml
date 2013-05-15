@@ -1,0 +1,40 @@
+{
+  "name": "webmake-yaml",
+  "version": "0.1.0",
+  "description": "Require YAML files with Webmake",
+  "keywords": [
+    "browser",
+    "browserify",
+    "bundle",
+    "cjs",
+    "commonjs",
+    "deploy",
+    "json",
+    "make",
+    "require",
+    "yaml",
+    "yml",
+    "web",
+    "webmake"
+  ],
+  "author": "Mariusz Nowak <medikoo+webmake-yaml@medikoo.com> (http://www.medikoo.com/)",
+  "scripts": {
+    "test": "node ./node_modules/tad/bin/tad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/webmake-yaml.git"
+  },
+  "bugs": {
+    "email": "medikoo+webmake-yaml@medikoo.com",
+    "url": "https://github.com/medikoo/webmake-yaml/issues"
+  },
+  "dependencies": {
+    "js-yaml": "2.x"
+  },
+  "devDependencies": {
+    "webmake": "~0.3.16",
+    "tad": "~0.1.15"
+  },
+  "license": "MIT"
+}
