@@ -20,7 +20,7 @@ Same way when Webmake is used programmatically:
 webmake(inputPath, { ext: 'yaml' }, cb);
 ```
 
-webmake-yaml can be used with any other Webmake extension, e.g.:
+_webmake-yaml_ can be used with any other Webmake extension, e.g.:
 
     $ webmake --ext=yaml --ext=otherext program.js bundle.js
 
@@ -32,8 +32,8 @@ webmake(inputPath, { ext: ['yaml', 'otherext'] }, cb);
 
 ## Contributors
 
-__Big thanks to [@puzrin](https://github.com/Phoscur) (Vitaly Puzrin) for making a donation to Webmake project and making this extension possible_.  
-Vitaly is a member of [Nodeca](https://github.com/nodeca) team that is behind [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML parser and dumper, and powerful social platform [Nodeca](http://dev.nodeca.com/).
+__Big thanks to [@puzrin](https://github.com/Phoscur) (Vitaly Puzrin) for making a donation to Webmake project and making this extension possible__.  
+Vitaly is a member of [Nodeca](https://github.com/nodeca) team, that is behind [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML parser and dumper, and powerful social platform [Nodeca](http://dev.nodeca.com/).
 
 ## Tests [![Build Status](https://api.travis-ci.org/medikoo/webmake-yaml.png?branch=master)](https://travis-ci.org/medikoo/webmake-yaml)
 
