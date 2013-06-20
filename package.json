@@ -32,6 +32,9 @@
   "dependencies": {
     "js-yaml": "2.x"
   },
+  "peerDependencies": {
+    "webmake": "~0.3.19"
+  },
   "devDependencies": {
     "webmake": "~0.3.16",
     "tad": "~0.1.15"
