@@ -1,6 +1,6 @@
 {
   "name": "webmake-yaml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Require YAML files with Webmake",
   "keywords": [
     "browser",
@@ -36,7 +36,7 @@
     "webmake": "~0.3.19"
   },
   "devDependencies": {
-    "webmake": "~0.3.16",
+    "webmake": "~0.3.19",
     "tad": "~0.1.15"
   },
   "license": "MIT"
